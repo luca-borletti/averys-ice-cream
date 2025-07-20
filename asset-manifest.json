@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/averys-ice-cream/static/css/main.8cba5bd7.css",
+    "main.js": "/averys-ice-cream/static/js/main.f7c31fc5.js",
+    "static/js/453.4732b69d.chunk.js": "/averys-ice-cream/static/js/453.4732b69d.chunk.js",
+    "index.html": "/averys-ice-cream/index.html",
+    "main.8cba5bd7.css.map": "/averys-ice-cream/static/css/main.8cba5bd7.css.map",
+    "main.f7c31fc5.js.map": "/averys-ice-cream/static/js/main.f7c31fc5.js.map",
+    "453.4732b69d.chunk.js.map": "/averys-ice-cream/static/js/453.4732b69d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cba5bd7.css",
+    "static/js/main.f7c31fc5.js"
+  ]
+}
